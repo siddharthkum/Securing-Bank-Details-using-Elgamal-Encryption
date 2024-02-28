@@ -1,0 +1,12 @@
+Account Number 2679 5654 9878 0348
+Name Pratham Rao
+Last 3 months Transaction
+
+No. of Transactions 3
+
+transaction_id 	message 		amount 	date
+1000001		electricity		5000		10 oct 2022
+1000023		zomato		300		11 nov 2022
+1000254		bbqnation		100000	12 nov 2022
+
+			Total Amount withdrawn=105300

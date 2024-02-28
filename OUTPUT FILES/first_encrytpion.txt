@@ -1,0 +1,271 @@
+Character=	A	Its ASCII IS= 65	C1 Value is =	1	C2 Value is =	65
+Character=	c	Its ASCII IS= 99	C1 Value is =	1	C2 Value is =	99
+Character=	c	Its ASCII IS= 99	C1 Value is =	1	C2 Value is =	99
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	u	Its ASCII IS= 117	C1 Value is =	1	C2 Value is =	117
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	N	Its ASCII IS= 78	C1 Value is =	1	C2 Value is =	78
+Character=	u	Its ASCII IS= 117	C1 Value is =	1	C2 Value is =	117
+Character=	m	Its ASCII IS= 109	C1 Value is =	1	C2 Value is =	109
+Character=	b	Its ASCII IS= 98	C1 Value is =	1	C2 Value is =	98
+Character=	e	Its ASCII IS= 101	C1 Value is =	1	C2 Value is =	101
+Character=	r	Its ASCII IS= 114	C1 Value is =	1	C2 Value is =	114
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=	6	Its ASCII IS= 54	C1 Value is =	1	C2 Value is =	54
+Character=	7	Its ASCII IS= 55	C1 Value is =	1	C2 Value is =	55
+Character=	9	Its ASCII IS= 57	C1 Value is =	1	C2 Value is =	57
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	5	Its ASCII IS= 53	C1 Value is =	1	C2 Value is =	53
+Character=	6	Its ASCII IS= 54	C1 Value is =	1	C2 Value is =	54
+Character=	5	Its ASCII IS= 53	C1 Value is =	1	C2 Value is =	53
+Character=	4	Its ASCII IS= 52	C1 Value is =	1	C2 Value is =	52
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	9	Its ASCII IS= 57	C1 Value is =	1	C2 Value is =	57
+Character=	8	Its ASCII IS= 56	C1 Value is =	1	C2 Value is =	56
+Character=	7	Its ASCII IS= 55	C1 Value is =	1	C2 Value is =	55
+Character=	8	Its ASCII IS= 56	C1 Value is =	1	C2 Value is =	56
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	3	Its ASCII IS= 51	C1 Value is =	1	C2 Value is =	51
+Character=	4	Its ASCII IS= 52	C1 Value is =	1	C2 Value is =	52
+Character=	8	Its ASCII IS= 56	C1 Value is =	1	C2 Value is =	56
+Character=		Its ASCII IS= 13	C1 Value is =	1	C2 Value is =	13
+Character=	
+	Its ASCII IS= 10	C1 Value is =	1	C2 Value is =	10
+Character=	N	Its ASCII IS= 78	C1 Value is =	1	C2 Value is =	78
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	m	Its ASCII IS= 109	C1 Value is =	1	C2 Value is =	109
+Character=	e	Its ASCII IS= 101	C1 Value is =	1	C2 Value is =	101
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	P	Its ASCII IS= 80	C1 Value is =	1	C2 Value is =	80
+Character=	r	Its ASCII IS= 114	C1 Value is =	1	C2 Value is =	114
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	h	Its ASCII IS= 104	C1 Value is =	1	C2 Value is =	104
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	m	Its ASCII IS= 109	C1 Value is =	1	C2 Value is =	109
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	R	Its ASCII IS= 82	C1 Value is =	1	C2 Value is =	82
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=		Its ASCII IS= 13	C1 Value is =	1	C2 Value is =	13
+Character=	
+	Its ASCII IS= 10	C1 Value is =	1	C2 Value is =	10
+Character=	L	Its ASCII IS= 76	C1 Value is =	1	C2 Value is =	76
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	s	Its ASCII IS= 115	C1 Value is =	1	C2 Value is =	115
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	3	Its ASCII IS= 51	C1 Value is =	1	C2 Value is =	51
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	m	Its ASCII IS= 109	C1 Value is =	1	C2 Value is =	109
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	h	Its ASCII IS= 104	C1 Value is =	1	C2 Value is =	104
+Character=	s	Its ASCII IS= 115	C1 Value is =	1	C2 Value is =	115
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	T	Its ASCII IS= 84	C1 Value is =	1	C2 Value is =	84
+Character=	r	Its ASCII IS= 114	C1 Value is =	1	C2 Value is =	114
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=	s	Its ASCII IS= 115	C1 Value is =	1	C2 Value is =	115
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	c	Its ASCII IS= 99	C1 Value is =	1	C2 Value is =	99
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	i	Its ASCII IS= 105	C1 Value is =	1	C2 Value is =	105
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=		Its ASCII IS= 13	C1 Value is =	1	C2 Value is =	13
+Character=	
+	Its ASCII IS= 10	C1 Value is =	1	C2 Value is =	10
+Character=		Its ASCII IS= 13	C1 Value is =	1	C2 Value is =	13
+Character=	
+	Its ASCII IS= 10	C1 Value is =	1	C2 Value is =	10
+Character=	N	Its ASCII IS= 78	C1 Value is =	1	C2 Value is =	78
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	.	Its ASCII IS= 46	C1 Value is =	1	C2 Value is =	46
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	f	Its ASCII IS= 102	C1 Value is =	1	C2 Value is =	102
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	T	Its ASCII IS= 84	C1 Value is =	1	C2 Value is =	84
+Character=	r	Its ASCII IS= 114	C1 Value is =	1	C2 Value is =	114
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=	s	Its ASCII IS= 115	C1 Value is =	1	C2 Value is =	115
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	c	Its ASCII IS= 99	C1 Value is =	1	C2 Value is =	99
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	i	Its ASCII IS= 105	C1 Value is =	1	C2 Value is =	105
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=	s	Its ASCII IS= 115	C1 Value is =	1	C2 Value is =	115
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	3	Its ASCII IS= 51	C1 Value is =	1	C2 Value is =	51
+Character=		Its ASCII IS= 13	C1 Value is =	1	C2 Value is =	13
+Character=	
+	Its ASCII IS= 10	C1 Value is =	1	C2 Value is =	10
+Character=		Its ASCII IS= 13	C1 Value is =	1	C2 Value is =	13
+Character=	
+	Its ASCII IS= 10	C1 Value is =	1	C2 Value is =	10
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	r	Its ASCII IS= 114	C1 Value is =	1	C2 Value is =	114
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=	s	Its ASCII IS= 115	C1 Value is =	1	C2 Value is =	115
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	c	Its ASCII IS= 99	C1 Value is =	1	C2 Value is =	99
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	i	Its ASCII IS= 105	C1 Value is =	1	C2 Value is =	105
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=	_	Its ASCII IS= 95	C1 Value is =	1	C2 Value is =	95
+Character=	i	Its ASCII IS= 105	C1 Value is =	1	C2 Value is =	105
+Character=	d	Its ASCII IS= 100	C1 Value is =	1	C2 Value is =	100
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	m	Its ASCII IS= 109	C1 Value is =	1	C2 Value is =	109
+Character=	e	Its ASCII IS= 101	C1 Value is =	1	C2 Value is =	101
+Character=	s	Its ASCII IS= 115	C1 Value is =	1	C2 Value is =	115
+Character=	s	Its ASCII IS= 115	C1 Value is =	1	C2 Value is =	115
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	g	Its ASCII IS= 103	C1 Value is =	1	C2 Value is =	103
+Character=	e	Its ASCII IS= 101	C1 Value is =	1	C2 Value is =	101
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	m	Its ASCII IS= 109	C1 Value is =	1	C2 Value is =	109
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	u	Its ASCII IS= 117	C1 Value is =	1	C2 Value is =	117
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	d	Its ASCII IS= 100	C1 Value is =	1	C2 Value is =	100
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	e	Its ASCII IS= 101	C1 Value is =	1	C2 Value is =	101
+Character=		Its ASCII IS= 13	C1 Value is =	1	C2 Value is =	13
+Character=	
+	Its ASCII IS= 10	C1 Value is =	1	C2 Value is =	10
+Character=	1	Its ASCII IS= 49	C1 Value is =	1	C2 Value is =	49
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	1	Its ASCII IS= 49	C1 Value is =	1	C2 Value is =	49
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	e	Its ASCII IS= 101	C1 Value is =	1	C2 Value is =	101
+Character=	l	Its ASCII IS= 108	C1 Value is =	1	C2 Value is =	108
+Character=	e	Its ASCII IS= 101	C1 Value is =	1	C2 Value is =	101
+Character=	c	Its ASCII IS= 99	C1 Value is =	1	C2 Value is =	99
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	r	Its ASCII IS= 114	C1 Value is =	1	C2 Value is =	114
+Character=	i	Its ASCII IS= 105	C1 Value is =	1	C2 Value is =	105
+Character=	c	Its ASCII IS= 99	C1 Value is =	1	C2 Value is =	99
+Character=	i	Its ASCII IS= 105	C1 Value is =	1	C2 Value is =	105
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	y	Its ASCII IS= 121	C1 Value is =	1	C2 Value is =	121
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	5	Its ASCII IS= 53	C1 Value is =	1	C2 Value is =	53
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	1	Its ASCII IS= 49	C1 Value is =	1	C2 Value is =	49
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	c	Its ASCII IS= 99	C1 Value is =	1	C2 Value is =	99
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=		Its ASCII IS= 13	C1 Value is =	1	C2 Value is =	13
+Character=	
+	Its ASCII IS= 10	C1 Value is =	1	C2 Value is =	10
+Character=	1	Its ASCII IS= 49	C1 Value is =	1	C2 Value is =	49
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=	3	Its ASCII IS= 51	C1 Value is =	1	C2 Value is =	51
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	z	Its ASCII IS= 122	C1 Value is =	1	C2 Value is =	122
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	m	Its ASCII IS= 109	C1 Value is =	1	C2 Value is =	109
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	3	Its ASCII IS= 51	C1 Value is =	1	C2 Value is =	51
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	1	Its ASCII IS= 49	C1 Value is =	1	C2 Value is =	49
+Character=	1	Its ASCII IS= 49	C1 Value is =	1	C2 Value is =	49
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	v	Its ASCII IS= 118	C1 Value is =	1	C2 Value is =	118
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=		Its ASCII IS= 13	C1 Value is =	1	C2 Value is =	13
+Character=	
+	Its ASCII IS= 10	C1 Value is =	1	C2 Value is =	10
+Character=	1	Its ASCII IS= 49	C1 Value is =	1	C2 Value is =	49
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=	5	Its ASCII IS= 53	C1 Value is =	1	C2 Value is =	53
+Character=	4	Its ASCII IS= 52	C1 Value is =	1	C2 Value is =	52
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	b	Its ASCII IS= 98	C1 Value is =	1	C2 Value is =	98
+Character=	b	Its ASCII IS= 98	C1 Value is =	1	C2 Value is =	98
+Character=	q	Its ASCII IS= 113	C1 Value is =	1	C2 Value is =	113
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=	a	Its ASCII IS= 97	C1 Value is =	1	C2 Value is =	97
+Character=	t	Its ASCII IS= 116	C1 Value is =	1	C2 Value is =	116
+Character=	i	Its ASCII IS= 105	C1 Value is =	1	C2 Value is =	105
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	1	Its ASCII IS= 49	C1 Value is =	1	C2 Value is =	49
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=			Its ASCII IS= 9	C1 Value is =	1	C2 Value is =	9
+Character=	1	Its ASCII IS= 49	C1 Value is =	1	C2 Value is =	49
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	n	Its ASCII IS= 110	C1 Value is =	1	C2 Value is =	110
+Character=	o	Its ASCII IS= 111	C1 Value is =	1	C2 Value is =	111
+Character=	v	Its ASCII IS= 118	C1 Value is =	1	C2 Value is =	118
+Character=	 	Its ASCII IS= 32	C1 Value is =	1	C2 Value is =	32
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=	0	Its ASCII IS= 48	C1 Value is =	1	C2 Value is =	48
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
+Character=	2	Its ASCII IS= 50	C1 Value is =	1	C2 Value is =	50
